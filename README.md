@@ -1,1 +1,3 @@
-Collection of projects for fun or for practical use.
+Hello!
+
+This is my collection of projects done mostly for fun and sometimes for practical use.
